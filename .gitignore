@@ -1,0 +1,6 @@
+/.terraform
+backend-config.txt
+.terraform.lock.hcl
+env.tfvars
+terraform.tfstate.backup
+terraform.tfstate
